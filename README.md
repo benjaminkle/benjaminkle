@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Khoa Le
+# 👋 Hi! | Xin chào! | Bonjour! | Hola!
 
 🎯 Aspiring IT professional pivoting from engineering and culinary management into the world of tech.  
 🎓 Currently studying **Computer Programming** at Humber College, with a focus on **Cybersecurity** and **Blue Team Operations**.  
