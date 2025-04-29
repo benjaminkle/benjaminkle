@@ -23,9 +23,8 @@
 ---
 
 ## 📫 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/khoalee) *(add your actual link)*
-- [GitHub Projects](https://github.com/benjaminkle) *(your username here)*
-
+- [LinkedIn](https://www.linkedin.com/khoalee) 
+- [GitHub Projects](https://github.com/benjaminkle) 
 ---
 
 Thanks for stopping by — feel free to check out my lab builds or shoot me a message if you’re into CyberSec or starting your own tech journey! 🚀
