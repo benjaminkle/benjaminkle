@@ -1,6 +1,5 @@
 # 👋 Hi! | Xin chào! | Bonjour! | Hola!
 
-🎯 Aspiring IT professional pivoting from engineering and culinary management into the world of tech.  
 🎓 Currently studying **Computer Programming** at Humber College, with a focus on **Cybersecurity** and **Blue Team Operations**.  
 🛠️ Home lab enthusiast – learning hands-on with tools like **Kali Linux**, **Wireshark**, **Docker**, and **Splunk**.  
 📚 Certified in **IBM IT Support** and **Google Cybersecurity** foundations.
