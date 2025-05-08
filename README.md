@@ -22,7 +22,7 @@
 ---
 
 ## 📫 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/khoalee) 
+- [LinkedIn](https://www.linkedin.com/khoa-lee) 
 - [GitHub Projects](https://github.com/benjaminkle) 
 ---
 
