@@ -14,10 +14,10 @@
 ---
 
 ## 🧠 What I'm Learning Now
+- Advanced Computer Programming
 - System & network fundamentals  
 - Scripting with Python & Bash  
 - SOC Analyst tools and frameworks  
-- Resume-ready projects for tech support roles
 
 ---
 
